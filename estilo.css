@@ -1,0 +1,92 @@
+body{
+	background-image: url("C:/xampp/htdocs/PROYECTO/fondo.jpg");
+}
+p1{  
+	color: #254874;
+	font-size: 16px;
+	font: oblique bold 16px cursive;
+}
+h1{
+	font: bold 500% monospace;
+	color: #22ACBA;
+	text-decoration: underline white;
+}
+h2{
+   font:bold 350% monospace;
+   color: #FFFFFF;
+}
+h3{
+   font:bold 200% monospace;
+   color: #E5C829;
+}
+h4{
+   font:bold 125% monospace;
+   color: #FFFFFF;
+}
+
+
+#mayor{
+	background-color: #42A466;
+    width: 900px;
+	height: 900px;
+	position:relative;
+	top:10px;
+	bottom:10px;
+	right:100;
+	left:250px;
+	margin:20px;
+	padding: 5px;
+	border:8px solid #17551B;
+}
+#proyectos{
+	background-color: #22ACBA;
+    width: 700px;
+	height: 500px;
+	position:relative;
+	top:10px;
+	bottom:10px;
+	right:100;
+	left:10px;
+	margin:20px;
+	padding: 5px;
+	border:4px solid #17551B;
+}
+#datos{
+	background-color: #22ACBA;
+    width: 500px;
+	height: 300px;
+	position:relative;
+	top:10px;
+	bottom:10px;
+	right:100;
+	left:100px;
+	margin:20px;
+	padding: 5px;
+	border:4px solid #17551B;
+}
+#proyecto1{
+	background-color: #ffffff;
+    width: 300px;
+	height: 310px;
+	position:relative;
+	top:0px;
+	bottom:10px;
+	right:100;
+	left:0px;
+	margin:20px;
+	padding: 5px;
+	border:4px solid #17551B;
+}
+#proyecto2{
+	background-color: #ffffff;
+    width: 300px;
+	height: 310px;
+	position:relative;
+	top:px;
+	bottom:140px;
+	right:0px;
+	left:350px;
+	margin:20px;
+	padding: 5px;
+	border:4px solid #17551B;
+}
